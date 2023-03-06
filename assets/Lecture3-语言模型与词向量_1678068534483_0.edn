@@ -1,0 +1,238 @@
+{:highlights
+ [{:id #uuid "64054bc7-3a8d-4f1e-ae78-0c0e120e7ac6",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 32.194007873535156,
+     :y1 53.84765625,
+     :x2 316.0111083984375,
+     :y2 69.26431274414062,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 316.0111083984375,
+      :y2 69.26431274414062,
+      :width 473,
+      :height 266.0625}),
+    :page 5},
+   :content {:text "语言模型是衡量一句话出现在自然语言中的概率的模型"},
+   :properties {:color "yellow"}}
+  {:id #uuid "64054c25-9dca-4ae6-8a14-56a1dd0cb12a",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 136,
+     :y1 162.58331298828125,
+     :x2 430,
+     :y2 250.58331298828125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 5},
+   :content {:text "[:span]", :image 1678068772499},
+   :properties {:color "red"}}
+  {:id #uuid "64054c4f-79ae-48a1-9bd9-dfbe1fc566ff",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 82,
+     :y1 79.25,
+     :x2 427,
+     :y2 226.25,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 6},
+   :content {:text "[:span]", :image 1678068814553},
+   :properties {:color "red"}}
+  {:id #uuid "64054c82-f814-4b0c-9ab8-27aa7c2d6531",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 39,
+     :y1 45.2498779296875,
+     :x2 415,
+     :y2 267.2498779296875,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 7},
+   :content {:text "[:span]", :image 1678068864336},
+   :properties {:color "green"}}
+  {:id #uuid "64054c8d-645e-45d1-8304-ce80096ebf54",
+   :page 8,
+   :position
+   {:bounding
+    {:x1 30,
+     :y1 43.583251953125,
+     :x2 452,
+     :y2 263.583251953125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 8},
+   :content {:text "[:span]", :image 1678068876193},
+   :properties {:color "green"}}
+  {:id #uuid "64054cb6-f2c1-4872-9ad6-b3d0bfda3117",
+   :page 9,
+   :position
+   {:bounding
+    {:x1 63,
+     :y1 83.4998779296875,
+     :x2 432,
+     :y2 156.4998779296875,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 9},
+   :content {:text "[:span]", :image 1678068916923},
+   :properties {:color "red"}}
+  {:id #uuid "64054d77-ee40-40b0-b0cc-fae30e6a1b77",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 45,
+     :y1 86.833251953125,
+     :x2 442,
+     :y2 225.833251953125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 11},
+   :content {:text "[:span]", :image 1678069110472},
+   :properties {:color "red"}}
+  {:id #uuid "64054ffb-36aa-44ae-9df1-ecb49a88c152",
+   :page 10,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.147125244140625,
+     :x2 314.7516174316406,
+     :y2 34.98046875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.147125244140625,
+      :x2 314.7516174316406,
+      :y2 34.98046875,
+      :width 473,
+      :height 266.0625}),
+    :page 10},
+   :content {:text "马尔可夫假设(MARKOV ASSUMPTION)"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6405510a-10c8-4a7d-83a1-55de6c9c8257",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 40,
+     :y1 86.083251953125,
+     :x2 460,
+     :y2 263.083251953125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 12},
+   :content {:text "[:span]", :image 1678070025653},
+   :properties {:color "red"}}
+  {:id #uuid "6405515d-2ff9-4ce1-bb42-53e17a29518d",
+   :page 13,
+   :position
+   {:bounding
+    {:x1 22,
+     :y1 92.083251953125,
+     :x2 428,
+     :y2 223.083251953125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 13},
+   :content {:text "[:span]", :image 1678070107691},
+   :properties {:color "green"}}
+  {:id #uuid "640553a8-29e8-416c-a840-813b53c1bf45",
+   :page 15,
+   :position
+   {:bounding
+    {:x1 1,
+     :y1 81.749755859375,
+     :x2 406,
+     :y2 229.749755859375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 15},
+   :content {:text "[:span]", :image 1678070695875},
+   :properties {:color "red"}}
+  {:id #uuid "640553c3-a2ea-465e-bc7b-e84394002d1f",
+   :page 16,
+   :position
+   {:bounding
+    {:x1 165,
+     :y1 162.41650390625,
+     :x2 463,
+     :y2 263.41650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 16},
+   :content {:text "[:span]", :image 1678070722395},
+   :properties {:color "red"}}
+  {:id #uuid "640554ac-73bc-4960-a24a-8d7311305199",
+   :page 17,
+   :position
+   {:bounding
+    {:x1 31,
+     :y1 80.8330078125,
+     :x2 417,
+     :y2 244.8330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 17},
+   :content {:text "[:span]", :image 1678070955674},
+   :properties {:color "red"}}
+  {:id #uuid "640554dc-5ff0-4a75-81b3-130af5b78a60",
+   :page 18,
+   :position
+   {:bounding
+    {:x1 140,
+     :y1 170.8330078125,
+     :x2 473,
+     :y2 260.8330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 18},
+   :content {:text "[:span]", :image 1678071003474},
+   :properties {:color "red"}}
+  {:id #uuid "64055508-0f91-4849-ab9f-fb8132ad6c1e",
+   :page 19,
+   :position
+   {:bounding
+    {:x1 40,
+     :y1 79.8330078125,
+     :x2 459,
+     :y2 242.8330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 19},
+   :content {:text "[:span]", :image 1678071047098},
+   :properties {:color "red"}}
+  {:id #uuid "6405561d-b94b-4371-bfa5-8155ae156081",
+   :page 20,
+   :position
+   {:bounding
+    {:x1 76,
+     :y1 118.3330078125,
+     :x2 343,
+     :y2 269.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 20},
+   :content {:text "[:span]", :image 1678071324096},
+   :properties {:color "red"}}], 
+ :extra {:page 22}}
