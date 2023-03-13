@@ -1,0 +1,43 @@
+file:: [Lecture3-语言模型与词向量-update2023.3.13_1678672759193_0.pdf](../assets/Lecture3-语言模型与词向量-update2023.3.13_1678672759193_0.pdf)
+file-path:: ../assets/Lecture3-语言模型与词向量-update2023.3.13_1678672759193_0.pdf
+
+- 基于窗口的共现矩阵
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: yellow
+  id:: 640e8670-6652-4ac7-9b2e-880e90a5612c
+- [:span]
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: red
+  id:: 640e867f-4b20-4fe7-8212-1794faa713bc
+  hl-type:: area
+  hl-stamp:: 1678673533971
+- [:span]
+  ls-type:: annotation
+  hl-page:: 50
+  hl-color:: green
+  id:: 640e8861-6d89-4005-820a-3760426e04c7
+  hl-type:: area
+  hl-stamp:: 1678674015139
+- [:span]
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: red
+  id:: 640e8b6a-1c6e-418a-ab67-d1d7d5dadd24
+  hl-type:: area
+  hl-stamp:: 1678674792608
+- [:span]
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 640e8b9c-8dcb-42fb-b378-ba69df640a14
+  hl-type:: area
+  hl-stamp:: 1678674843607
+- [:span]
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 640e8baa-6a58-4c09-82ce-902f02e08c39
+  hl-type:: area
+  hl-stamp:: 1678674857016

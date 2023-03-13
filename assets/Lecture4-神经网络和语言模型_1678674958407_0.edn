@@ -1,0 +1,256 @@
+{:highlights
+ [{:id #uuid "640e8c36-0669-475c-8595-2f057761a4c9",
+   :page 3,
+   :position
+   {:bounding
+    {:x1 173.73696899414062,
+     :y1 112.87109375,
+     :x2 256.552001953125,
+     :y2 131.2044219970703,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 173.73696899414062,
+      :y1 112.87109375,
+      :x2 256.552001953125,
+      :y2 131.2044219970703,
+      :width 473,
+      :height 266.0625}),
+    :page 3},
+   :content {:text "神经网络基础"},
+   :properties {:color "yellow"}}
+  {:id #uuid "640e996f-ec6a-454b-9f50-2bb63d863807",
+   :page 22,
+   :position
+   {:bounding
+    {:x1 15,
+     :y1 46.3330078125,
+     :x2 455,
+     :y2 258.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 22},
+   :content {:text "[:span]", :image 1678678382094},
+   :properties {:color "red"}}
+  {:id #uuid "640e9a7e-495e-43ca-b99c-6aeb4da8b7e9",
+   :page 24,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.147140502929688,
+     :x2 112.94365882873535,
+     :y2 34.98045349121094,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.147140502929688,
+      :x2 112.94365882873535,
+      :y2 34.98045349121094,
+      :width 473,
+      :height 266.0625}),
+    :page 24},
+   :content {:text "循环神经网络"},
+   :properties {:color "yellow"}}
+  {:id #uuid "640e9aa1-b868-4262-9764-ce69a49f763e",
+   :page 24,
+   :position
+   {:bounding
+    {:x1 27,
+     :y1 115.16650390625,
+     :x2 422.99609375,
+     :y2 250.08184814453125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 24},
+   :content {:text "[:span]", :image 1678678696889},
+   :properties {:color "red"}}
+  {:id #uuid "640e9acc-33a1-4f69-afc2-ee951e5b0c15",
+   :page 25,
+   :position
+   {:bounding
+    {:x1 3,
+     :y1 57.3330078125,
+     :x2 471,
+     :y2 268.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 25},
+   :content {:text "[:span]", :image 1678678731040},
+   :properties {:color "red"}}
+  {:id #uuid "640e9bee-c459-4886-819a-b9f1a022a404",
+   :page 28,
+   :position
+   {:bounding
+    {:x1 15,
+     :y1 34.66650390625,
+     :x2 410,
+     :y2 271.66650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 28},
+   :content {:text "[:span]", :image 1678679020851},
+   :properties {:color "red"}}
+  {:id #uuid "640e9bfc-9ae6-4d6e-81f7-b9b52c788692",
+   :page 29,
+   :position
+   {:bounding
+    {:x1 12,
+     :y1 35.16650390625,
+     :x2 448,
+     :y2 261.16650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 29},
+   :content {:text "[:span]", :image 1678679035237},
+   :properties {:color "red"}}
+  {:id #uuid "640e9c08-30f7-4ce0-b8e5-5746edcbb3cc",
+   :page 30,
+   :position
+   {:bounding
+    {:x1 8,
+     :y1 34.3330078125,
+     :x2 419,
+     :y2 258.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 30},
+   :content {:text "[:span]", :image 1678679046800},
+   :properties {:color "red"}}
+  {:id #uuid "640e9c12-9242-47ef-a116-483812bcb0b8",
+   :page 31,
+   :position
+   {:bounding
+    {:x1 10,
+     :y1 35.8330078125,
+     :x2 408,
+     :y2 260.8330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 31},
+   :content {:text "[:span]", :image 1678679057410},
+   :properties {:color "red"}}
+  {:id #uuid "640e9c23-934f-4e7b-aeb9-004fc8a1ff8d",
+   :page 32,
+   :position
+   {:bounding
+    {:x1 8, :y1 34, :x2 460, :y2 259, :width 473, :height 266.0625},
+    :rects (),
+    :page 32},
+   :content {:text "[:span]", :image 1678679074049},
+   :properties {:color "red"}}
+  {:id #uuid "640e9c7a-16a8-480f-a675-2e5b03e07775",
+   :page 27,
+   :position
+   {:bounding
+    {:x1 79,
+     :y1 116.16650390625,
+     :x2 397,
+     :y2 164.16650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 27},
+   :content {:text "[:span]", :image 1678679161489},
+   :properties {:color "red"}}
+  {:id #uuid "640e9c94-e045-4466-be35-f61fb13d23e5",
+   :page 27,
+   :position
+   {:bounding
+    {:x1 78,
+     :y1 178.16650390625,
+     :x2 334,
+     :y2 244.16650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 27},
+   :content {:text "[:span]", :image 1678679185675},
+   :properties {:color "red"}}
+  {:id #uuid "640e9d11-ed1b-4d17-ada6-a65b17c5edee",
+   :page 33,
+   :position
+   {:bounding
+    {:x1 82,
+     :y1 34.5,
+     :x2 358,
+     :y2 235.5,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 33},
+   :content {:text "[:span]", :image 1678679311380},
+   :properties {:color "red"}}
+  {:id #uuid "640e9d1a-c2c0-4273-ae40-89fc839a6032",
+   :page 34,
+   :position
+   {:bounding
+    {:x1 78,
+     :y1 39.5,
+     :x2 353,
+     :y2 240.5,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 34},
+   :content {:text "[:span]", :image 1678679321066},
+   :properties {:color "red"}}
+  {:id #uuid "640e9d2b-1939-4d2d-a908-1c368f6e2509",
+   :page 37,
+   :position
+   {:bounding
+    {:x1 96,
+     :y1 39.666015625,
+     :x2 383,
+     :y2 271.666015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 37},
+   :content {:text "[:span]", :image 1678679338417},
+   :properties {:color "red"}}
+  {:id #uuid "640e9e61-a09b-47dc-917a-ed4e771cd704",
+   :page 39,
+   :position
+   {:bounding
+    {:x1 311,
+     :y1 89.666015625,
+     :x2 470,
+     :y2 259.666015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 39},
+   :content {:text "[:span]", :image 1678679648562},
+   :properties {:color "red"}}
+  {:id #uuid "640e9e71-bc25-4f0c-a3e4-3a07a7736f7a",
+   :page 40,
+   :position
+   {:bounding
+    {:x1 19, :y1 50, :x2 458, :y2 258, :width 473, :height 266.0625},
+    :rects (),
+    :page 40},
+   :content {:text "[:span]", :image 1678679664621},
+   :properties {:color "red"}}
+  {:id #uuid "640e9e7d-f131-4c3d-8d3e-2ace4731fbd5",
+   :page 41,
+   :position
+   {:bounding
+    {:x1 14,
+     :y1 31.3330078125,
+     :x2 461,
+     :y2 242.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 41},
+   :content {:text "[:span]", :image 1678679675844},
+   :properties {:color "red"}}], 
+ :extra {:page 49}}

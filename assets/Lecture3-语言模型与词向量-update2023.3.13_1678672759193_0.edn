@@ -1,0 +1,92 @@
+{:highlights
+ [{:id #uuid "640e8670-6652-4ac7-9b2e-880e90a5612c",
+   :page 48,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.127593994140625,
+     :x2 142.54609870910645,
+     :y2 32.4609375,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.127593994140625,
+      :x2 142.54609870910645,
+      :y2 32.4609375,
+      :width 473,
+      :height 266.0625}),
+    :page 48},
+   :content {:text "基于窗口的共现矩阵"},
+   :properties {:color "yellow"}}
+  {:id #uuid "640e867f-4b20-4fe7-8212-1794faa713bc",
+   :page 48,
+   :position
+   {:bounding
+    {:x1 15,
+     :y1 51.7490234375,
+     :x2 447,
+     :y2 208.7490234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 48},
+   :content {:text "[:span]", :image 1678673533971},
+   :properties {:color "red"}}
+  {:id #uuid "640e8861-6d89-4005-820a-3760426e04c7",
+   :page 50,
+   :position
+   {:bounding
+    {:x1 168,
+     :y1 121.7490234375,
+     :x2 315,
+     :y2 263.7490234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 50},
+   :content {:text "[:span]", :image 1678674015139},
+   :properties {:color "green"}}
+  {:id #uuid "640e8b6a-1c6e-418a-ab67-d1d7d5dadd24",
+   :page 53,
+   :position
+   {:bounding
+    {:x1 117,
+     :y1 150.916015625,
+     :x2 460,
+     :y2 257.916015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 53},
+   :content {:text "[:span]", :image 1678674792608},
+   :properties {:color "red"}}
+  {:id #uuid "640e8b9c-8dcb-42fb-b378-ba69df640a14",
+   :page 54,
+   :position
+   {:bounding
+    {:x1 35,
+     :y1 78.7490234375,
+     :x2 410,
+     :y2 150.7490234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 54},
+   :content {:text "[:span]", :image 1678674843607},
+   :properties {:color "red"}}
+  {:id #uuid "640e8baa-6a58-4c09-82ce-902f02e08c39",
+   :page 54,
+   :position
+   {:bounding
+    {:x1 50,
+     :y1 182.7490234375,
+     :x2 402,
+     :y2 263.7490234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 54},
+   :content {:text "[:span]", :image 1678674857016},
+   :properties {:color "red"}}], 
+ :extra {:page 54}}
