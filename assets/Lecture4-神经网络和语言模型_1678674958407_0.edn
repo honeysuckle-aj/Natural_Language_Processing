@@ -252,5 +252,96 @@
     :rects (),
     :page 41},
    :content {:text "[:span]", :image 1678679675844},
+   :properties {:color "red"}}
+  {:id #uuid "640f0f64-0522-48eb-8894-2ee1e8b278ba",
+   :page 42,
+   :position
+   {:bounding
+    {:x1 20,
+     :y1 41.3330078125,
+     :x2 461,
+     :y2 253.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 42},
+   :content {:text "[:span]", :image 1678708579840},
+   :properties {:color "red"}}
+  {:id #uuid "640f1147-ca9f-4386-8dfe-809f4a024a7e",
+   :page 44,
+   :position
+   {:bounding
+    {:x1 12,
+     :y1 47.666015625,
+     :x2 468,
+     :y2 240.666015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 44},
+   :content {:text "[:span]", :image 1678709062876},
+   :properties {:color "red"}}
+  {:id #uuid "640f1192-9db1-4691-ab0c-42a54044b74d",
+   :page 45,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.147125244140625,
+     :x2 236.71875,
+     :y2 34.98046875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.147125244140625,
+      :x2 236.71875,
+      :y2 34.98046875,
+      :width 473,
+      :height 266.0625}
+     {:x1 160.2278594970703,
+      :y1 17.063796997070312,
+      :x2 220.95933532714844,
+      :y2 32.83203125,
+      :width 473,
+      :height 266.0625}),
+    :page 45},
+   :content {:text "双向循环神经网络（BI-RNN）"},
+   :properties {:color "yellow"}}
+  {:id #uuid "640f119b-db1b-4555-9ab3-e044facf761a",
+   :page 45,
+   :position
+   {:bounding
+    {:x1 16, :y1 36, :x2 434, :y2 268, :width 473, :height 266.0625},
+    :rects (),
+    :page 45},
+   :content {:text "[:span]", :image 1678709146378},
+   :properties {:color "red"}}
+  {:id #uuid "640f11b7-e5bb-4bc4-8eb7-69acda470b68",
+   :page 46,
+   :position
+   {:bounding
+    {:x1 15,
+     :y1 55.3330078125,
+     :x2 455,
+     :y2 265.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 46},
+   :content {:text "[:span]", :image 1678709174749},
+   :properties {:color "red"}}
+  {:id #uuid "640f11dd-143c-4c67-ab00-669f012eead4",
+   :page 47,
+   :position
+   {:bounding
+    {:x1 22,
+     :y1 43.9990234375,
+     :x2 422,
+     :y2 276.9990234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 47},
+   :content {:text "[:span]", :image 1678709212607},
    :properties {:color "red"}}], 
  :extra {:page 49}}
