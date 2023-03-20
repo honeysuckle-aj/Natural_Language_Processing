@@ -1,0 +1,25 @@
+- [[Bidirectional Encoder Representations from Transformer]]
+- Transformer架构
+- ((6417d6e0-cbeb-4ee3-a53b-99dacfc6ee43))
+- # 优化目标
+	- [[Masked Language Model]] ([[MLM]])
+		- 随机选择一部分词并掩藏掉(mask), 要求预测出被掩藏的词
+		- ((6417d745-303b-46d0-a86e-f8519fb013c2))
+		- 需要理解上下文的信息. 模型能够知道句子内部的语义
+		-
+	- [[Next Sentence Prediction]] ([[NSP]])
+		- 对于文本中连续的两个句子，以一定的概率替换掉其中某个句子
+		- 预测两个句子是否是连续的
+		- ((6417d7cd-c0c1-4421-b3c9-e51986c9cd9f))
+		- ((6417d889-eeed-4670-950b-ce396b1496c8))
+- [[fine-tuning]]
+	- ((6417d8a2-ebc5-44ae-8773-4c69a88a0540))
+		- 主要的结构体不做变化, 针对不同的任务给出不同的输出
+	- ((6417d8a9-ac46-4727-938d-b29c5b471ca1))
+		- 分类任务
+	- ((6417d8bb-db2d-4a5a-af20-fd6ebfd88d80))
+		- 问答任务
+- # 评测成绩
+	- ((6417d9a6-63e9-4f83-9c77-8acbb4eb4eb9))
+	- ((6417d9ac-8c22-48b0-bf5f-8c82f52494df))
+	-

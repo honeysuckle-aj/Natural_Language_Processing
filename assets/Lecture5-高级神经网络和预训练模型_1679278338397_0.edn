@@ -1,0 +1,646 @@
+{:highlights
+ [{:id #uuid "6417c119-fe52-4a68-ae20-c0ad2a8e3b31",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.147125244140625,
+     :x2 81.40688514709473,
+     :y2 34.98046875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.147125244140625,
+      :x2 81.40688514709473,
+      :y2 34.98046875,
+      :width 473,
+      :height 266.0625}),
+    :page 4},
+   :content {:text "机器翻译"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417c128-d7f2-4c9a-9399-2a038ea5a679",
+   :page 4,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 14.3359375,
+     :x2 448.3328552246094,
+     :y2 85.9375,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 0,
+      :y1 14.3359375,
+      :x2 0,
+      :y2 33.502593994140625,
+      :width 473,
+      :height 266.0625}
+     {:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 448.3328552246094,
+      :y2 69.26431274414062,
+      :width 473,
+      :height 266.0625}
+     {:x1 29.4140625,
+      :y1 70.52084350585938,
+      :x2 83.0213394165039,
+      :y2 85.9375,
+      :width 473,
+      :height 266.0625}),
+    :page 4},
+   :content
+   {:text "机器翻译（Machine Translation）是一个将源语言的句子x翻译成目标语言句子 y的任务。"},
+   :properties {:color "red"}}
+  {:id #uuid "6417c1f7-dc35-4267-bfb1-a47dbe057945",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 1, :y1 36, :x2 465, :y2 247, :width 473, :height 266.0625},
+    :rects (),
+    :page 6},
+   :content {:text "[:span]", :image 1679278578958},
+   :properties {:color "red"}}
+  {:id #uuid "6417c216-7ce4-468f-97fd-a27440da44a3",
+   :page 7,
+   :position
+   {:bounding
+    {:x1 4, :y1 2, :x2 472, :y2 251, :width 473, :height 266.0625},
+    :rects (),
+    :page 7},
+   :content {:text "[:span]", :image 1679278613813},
+   :properties {:color "red"}}
+  {:id #uuid "6417c4f8-476e-49cd-a79c-ce3828ed34b7",
+   :page 10,
+   :position
+   {:bounding
+    {:x1 1,
+     :y1 7.333251953125,
+     :x2 465,
+     :y2 269.333251953125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 10},
+   :content {:text "[:span]", :image 1679279349943},
+   :properties {:color "red"}}
+  {:id #uuid "6417c5c1-158b-4d86-97de-6ca5fef51c12",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.147140502929688,
+     :x2 224.0950469970703,
+     :y2 34.98045349121094,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.147140502929688,
+      :x2 224.0950469970703,
+      :y2 34.98045349121094,
+      :width 473,
+      :height 266.0625}
+     {:x1 112.92317199707031,
+      :y1 17.063796997070312,
+      :x2 208.34783935546875,
+      :y2 32.83201599121094,
+      :width 473,
+      :height 266.0625}),
+    :page 11},
+   :content {:text "注意力机制（ATTENTION）"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417c618-b6a8-40e4-b35d-d50503f71618",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 5, :y1 91, :x2 471, :y2 264, :width 473, :height 266.0625},
+    :rects (),
+    :page 12},
+   :content {:text "[:span]", :image 1679279639061},
+   :properties {:color "red"}}
+  {:id #uuid "6417c641-6a76-4525-9e7a-a577d07ee4e1",
+   :page 15,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 56.083251953125,
+     :x2 466,
+     :y2 270.083251953125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 15},
+   :content {:text "[:span]", :image 1679279680709},
+   :properties {:color "red"}}
+  {:id #uuid "6417c67d-0195-431c-8dd2-30129888548b",
+   :page 16,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 46.749755859375,
+     :x2 461,
+     :y2 260.749755859375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 16},
+   :content {:text "[:span]", :image 1679279740112},
+   :properties {:color "red"}}
+  {:id #uuid "6417c6f1-7252-4744-a634-06e7fbed17cb",
+   :page 17,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 37.75,
+     :x2 474,
+     :y2 261.75,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 17},
+   :content {:text "[:span]", :image 1679279856876},
+   :properties {:color "red"}}
+  {:id #uuid "6417c700-64cd-4d51-9f6b-d527035a5129",
+   :page 18,
+   :position
+   {:bounding
+    {:x1 2,
+     :y1 48.41650390625,
+     :x2 460,
+     :y2 255.41650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 18},
+   :content {:text "[:span]", :image 1679279870345},
+   :properties {:color "red"}}
+  {:id #uuid "6417c73d-9500-4ee0-87f4-21e5d515bcc5",
+   :page 19,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.14715576171875,
+     :x2 261.7597122192383,
+     :y2 34.98046875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.14715576171875,
+      :x2 261.7597122192383,
+      :y2 34.98046875,
+      :width 473,
+      :height 266.0625}
+     {:x1 65.625,
+      :y1 17.063812255859375,
+      :x2 72.44791412353516,
+      :y2 32.83203125,
+      :width 473,
+      :height 266.0625}),
+    :page 19},
+   :content {:text "编码器-解码器中如何计算注意力？"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417c84a-bbb6-4a84-8d61-5138f7c55034",
+   :page 20,
+   :position
+   {:bounding
+    {:x1 9,
+     :y1 9.0830078125,
+     :x2 462,
+     :y2 270.0830078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 20},
+   :content {:text "[:span]", :image 1679280200816},
+   :properties {:color "red"}}
+  {:id #uuid "6417c863-6f34-4ab0-919f-f2cb99bee9cb",
+   :page 21,
+   :position
+   {:bounding
+    {:x1 18.32682228088379,
+     :y1 14.147125244140625,
+     :x2 223.32886695861816,
+     :y2 34.98046875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 18.32682228088379,
+      :y1 14.147125244140625,
+      :x2 223.32886695861816,
+      :y2 34.98046875,
+      :width 473,
+      :height 266.0625}),
+    :page 21},
+   :content {:text "一般情况下如何计算注意力？"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417c92b-7f21-4cdd-b9d1-5b5f2cf51797",
+   :page 23,
+   :position
+   {:bounding
+    {:x1 52,
+     :y1 37.41650390625,
+     :x2 377,
+     :y2 272.41650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 23},
+   :content {:text "[:span]", :image 1679280425909},
+   :properties {:color "red"}}
+  {:id #uuid "6417c948-76b4-40f9-858d-853dcd249646",
+   :page 24,
+   :position
+   {:bounding
+    {:x1 7,
+     :y1 38.75,
+     :x2 449,
+     :y2 259.75,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 24},
+   :content {:text "[:span]", :image 1679280454896},
+   :properties {:color "red"}}
+  {:id #uuid "6417c9cf-4ff1-4eba-8e45-e7313b04f380",
+   :page 25,
+   :position
+   {:bounding
+    {:x1 106,
+     :y1 34.91650390625,
+     :x2 372,
+     :y2 259.91650390625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 25},
+   :content {:text "[:span]", :image 1679280590324},
+   :properties {:color "red"}}
+  {:id #uuid "6417c9e4-55bb-4ebc-9a5d-4cf9010aae31",
+   :page 26,
+   :position
+   {:bounding
+    {:x1 11,
+     :y1 61.24951171875,
+     :x2 430,
+     :y2 247.24951171875,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 26},
+   :content {:text "[:span]", :image 1679280611447},
+   :properties {:color "red"}}
+  {:id #uuid "6417cb3c-d1ab-4dad-9927-bf12ad179b7f",
+   :page 31,
+   :position
+   {:bounding
+    {:x1 68,
+     :y1 75.74951171875,
+     :x2 452,
+     :y2 255.74951171875,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 31},
+   :content {:text "[:span]", :image 1679280955245},
+   :properties {:color "red"}}
+  {:id #uuid "6417cbc1-b304-4bc1-9c9c-cb59da8c5433",
+   :page 33,
+   :position
+   {:bounding
+    {:x1 14,
+     :y1 28.916656494140625,
+     :x2 411.9947814941406,
+     :y2 266.7486877441406,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 33},
+   :content {:text "[:span]", :image 1679281092447},
+   :properties {:color "red"}}
+  {:id #uuid "6417cbf9-2c95-4cda-949b-ce441bb135af",
+   :page 34,
+   :position
+   {:bounding
+    {:x1 149,
+     :y1 45.416015625,
+     :x2 424,
+     :y2 257.416015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 34},
+   :content {:text "[:span]", :image 1679281143078},
+   :properties {:color "red"}}
+  {:id #uuid "6417ceea-25bd-46e7-b1d4-9eee9e402db5",
+   :page 36,
+   :position
+   {:bounding
+    {:x1 113,
+     :y1 97.416015625,
+     :x2 417,
+     :y2 232.416015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 36},
+   :content {:text "[:span]", :image 1679281897284},
+   :properties {:color "red"}}
+  {:id #uuid "6417cf34-994a-4e08-92a2-a3dec63ffee0",
+   :page 37,
+   :position
+   {:bounding
+    {:x1 149,
+     :y1 94.416015625,
+     :x2 356,
+     :y2 185.416015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 37},
+   :content {:text "[:span]", :image 1679281970989},
+   :properties {:color "red"}}
+  {:id #uuid "6417d1c5-c380-443b-9a33-429396e32333",
+   :page 40,
+   :position
+   {:bounding
+    {:x1 60,
+     :y1 126.8330078125,
+     :x2 260,
+     :y2 153.8330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 40},
+   :content {:text "[:span]", :image 1679282628690},
+   :properties {:color "red"}}
+  {:id #uuid "6417d1e2-cce9-4916-805a-aade90d170a1",
+   :page 41,
+   :position
+   {:bounding
+    {:x1 17,
+     :y1 112.5,
+     :x2 282,
+     :y2 235.5,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 41},
+   :content {:text "[:span]", :image 1679282657025},
+   :properties {:color "red"}}
+  {:id #uuid "6417d214-28ea-4082-86b4-b3345c3e8ab7",
+   :page 42,
+   :position
+   {:bounding
+    {:x1 42,
+     :y1 101.5,
+     :x2 261,
+     :y2 151.5,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 42},
+   :content {:text "[:span]", :image 1679282707129},
+   :properties {:color "red"}}
+  {:id #uuid "6417d270-57f2-4b7b-8a74-af02ed1ca0ac",
+   :page 43,
+   :position
+   {:bounding
+    {:x1 28,
+     :y1 136.166015625,
+     :x2 236,
+     :y2 265.166015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 43},
+   :content {:text "[:span]", :image 1679282799082},
+   :properties {:color "red"}}
+  {:id #uuid "6417d359-071b-4265-a296-11f7f5b76fab",
+   :page 44,
+   :position
+   {:bounding
+    {:x1 42,
+     :y1 62.666015625,
+     :x2 450,
+     :y2 195.666015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 44},
+   :content {:text "[:span]", :image 1679283032626},
+   :properties {:color "red"}}
+  {:id #uuid "6417d3a9-1ffb-4337-b93c-07c035ae889a",
+   :page 45,
+   :position
+   {:bounding
+    {:x1 32.194007873535156,
+     :y1 53.84765625,
+     :x2 79.51873779296875,
+     :y2 69.26434326171875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 79.51873779296875,
+      :y2 69.26434326171875,
+      :width 473,
+      :height 266.0625}),
+    :page 45},
+   :content {:text "机器翻译"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417d3b2-068c-4222-82e9-537a3b19eb49",
+   :page 46,
+   :position
+   {:bounding
+    {:x1 32.194007873535156,
+     :y1 53.84765625,
+     :x2 79.51873779296875,
+     :y2 69.2642822265625,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 79.51873779296875,
+      :y2 69.2642822265625,
+      :width 473,
+      :height 266.0625}),
+    :page 46},
+   :content {:text "图像领域"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417d3d0-5b51-48ab-b707-2297da093646",
+   :page 47,
+   :position
+   {:bounding
+    {:x1 32.194007873535156,
+     :y1 53.84765625,
+     :x2 94.36387634277344,
+     :y2 69.26434326171875,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 94.36387634277344,
+      :y2 69.26434326171875,
+      :width 473,
+      :height 266.0625}),
+    :page 47},
+   :content {:text "Alphafold2"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417d622-2e1c-46c8-9327-725191e07a8e",
+   :page 51,
+   :position
+   {:bounding
+    {:x1 69,
+     :y1 112.9990234375,
+     :x2 419,
+     :y2 270.9990234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 51},
+   :content {:text "[:span]", :image 1679283745381},
+   :properties {:color "red"}}
+  {:id #uuid "6417d6e0-cbeb-4ee3-a53b-99dacfc6ee43",
+   :page 52,
+   :position
+   {:bounding
+    {:x1 218,
+     :y1 79.666015625,
+     :x2 422,
+     :y2 259.666015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 52},
+   :content {:text "[:span]", :image 1679283935740},
+   :properties {:color "red"}}
+  {:id #uuid "6417d745-303b-46d0-a86e-f8519fb013c2",
+   :page 53,
+   :position
+   {:bounding
+    {:x1 38,
+     :y1 101.3330078125,
+     :x2 453,
+     :y2 243.3330078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 53},
+   :content {:text "[:span]", :image 1679284036710},
+   :properties {:color "red"}}
+  {:id #uuid "6417d7cd-c0c1-4421-b3c9-e51986c9cd9f",
+   :page 54,
+   :position
+   {:bounding
+    {:x1 86,
+     :y1 133.666015625,
+     :x2 363,
+     :y2 253.666015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 54},
+   :content {:text "[:span]", :image 1679284172554},
+   :properties {:color "red"}}
+  {:id #uuid "6417d889-eeed-4670-950b-ce396b1496c8",
+   :page 55,
+   :position
+   {:bounding
+    {:x1 27,
+     :y1 75.916015625,
+     :x2 442,
+     :y2 215.916015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 55},
+   :content {:text "[:span]", :image 1679284360760},
+   :properties {:color "red"}}
+  {:id #uuid "6417d8a2-ebc5-44ae-8773-4c69a88a0540",
+   :page 56,
+   :position
+   {:bounding
+    {:x1 12,
+     :y1 5.2490234375,
+     :x2 436,
+     :y2 225.2490234375,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 56},
+   :content {:text "[:span]", :image 1679284385641},
+   :properties {:color "red"}}
+  {:id #uuid "6417d8a9-ac46-4727-938d-b29c5b471ca1",
+   :page 57,
+   :position
+   {:bounding
+    {:x1 32,
+     :y1 41.5830078125,
+     :x2 460,
+     :y2 250.5830078125,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 57},
+   :content {:text "[:span]", :image 1679284391929},
+   :properties {:color "red"}}
+  {:id #uuid "6417d8bb-db2d-4a5a-af20-fd6ebfd88d80",
+   :page 58,
+   :position
+   {:bounding
+    {:x1 32,
+     :y1 47.916015625,
+     :x2 445,
+     :y2 246.916015625,
+     :width 473,
+     :height 266.0625},
+    :rects (),
+    :page 58},
+   :content {:text "[:span]", :image 1679284410631},
+   :properties {:color "red"}}
+  {:id #uuid "6417d9a6-63e9-4f83-9c77-8acbb4eb4eb9",
+   :page 59,
+   :position
+   {:bounding
+    {:x1 32.194007873535156,
+     :y1 53.84765625,
+     :x2 109.73957824707031,
+     :y2 69.26431274414062,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 109.73957824707031,
+      :y2 69.26431274414062,
+      :width 473,
+      :height 266.0625}),
+    :page 59},
+   :content {:text "GLUE评测成绩"},
+   :properties {:color "yellow"}}
+  {:id #uuid "6417d9ac-8c22-48b0-bf5f-8c82f52494df",
+   :page 61,
+   :position
+   {:bounding
+    {:x1 32.194007873535156,
+     :y1 53.84765625,
+     :x2 118.97785949707031,
+     :y2 69.26431274414062,
+     :width 473,
+     :height 266.0625},
+    :rects
+    ({:x1 32.194007873535156,
+      :y1 53.84765625,
+      :x2 118.97785949707031,
+      :y2 69.26431274414062,
+      :width 473,
+      :height 266.0625}),
+    :page 61},
+   :content {:text "SuperGLUE榜单"},
+   :properties {:color "yellow"}}], 
+ :extra {:page 65}}
