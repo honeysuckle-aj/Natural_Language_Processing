@@ -1,0 +1,19 @@
+- [[prompt工程]]
+	- 设计合适的prompt(提示文本), 将下游任务转换为对应的语言模型任务
+	- [[cloze prompt]]
+		- [[完形填空prompt]]
+		- 适合 [[Masked Language Model]], 如 [[BERT]]
+		- ((64741b27-f08d-42ae-b1f2-a9c64041e3e1))
+	- [[prefix prompt]]
+		- [[前缀prompt]]
+		- 适合 [[Language Model]], 如 [[GPT]]系列
+		- ((64741b2f-b1c2-41c8-95aa-dd3de2f73c96))
+	- 手工设计
+	- 自动搜索
+	- ((64741b4c-65b3-4e91-af65-e120bff0927e))
+- [[answer工程]]
+	- 设计对应的单词-标签映射, 将上述语言模型预测出来的词映射到对应的类别空间
+	- ((64741b58-98a0-4d8e-88e4-cf39f7d0f2d3))
+	- ((64741b5f-1184-4bd3-a9a4-cb5d1b6293f7))
+	- ((64741b65-9fb0-4dc3-afd7-c242258cb0c5))
+	-
